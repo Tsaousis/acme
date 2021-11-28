@@ -1,6 +1,6 @@
 <img src="docs/imgs/acme.png" width="50%">
 
-# Acme: a research framework for reinforcement learning
+# Acme: a research framework for reinforcement learning 
 
 [![PyPI Python Version][pypi-versions-badge]][pypi]
 [![PyPI version][pypi-badge]][pypi]
